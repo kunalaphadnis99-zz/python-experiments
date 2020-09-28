@@ -1,0 +1,8 @@
+# print(True == 1)
+# print('' == 1)
+# print([] == 1)
+# print(10 == 10.0)
+# print([] == [])
+# print([] is [])
+print({1, 2, 3} == {1, 3, 2})
+print([1, 2, 3] == [1, 3, 2])
