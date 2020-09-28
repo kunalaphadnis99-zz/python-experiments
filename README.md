@@ -1,1 +1,1 @@
-# python-experiments
+# This repo contains python experiments for beginners.
